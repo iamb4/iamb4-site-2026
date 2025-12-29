@@ -1,0 +1,142 @@
+[
+  {
+    "project": "Awesome Surfboards",
+    "role": ["Creative Director", "Designer", "Developer"],
+    "client": "Awesome Surfboards",
+    "description": "Awesome Surfboards is a brand started in 2013 as a creative outlet, producing surfboards, hard goods, and later a small clothing line.",
+    "url": "http://iamb4.com/projects/awesome-surfboards/"
+  },
+  {
+    "project": "Onset Ventures",
+    "role": ["Front-end Developer"],
+    "client": "Onset Ventures",
+    "description": "Front-end development work for the Onset Ventures website.",
+    "url": "http://iamb4.com/projects/onset-ventures/"
+  },
+  {
+    "project": "Homeschool Outerwear",
+    "role": ["Front-end Developer"],
+    "client": "Landonsea / Homeschool Outerwear",
+    "description": "Front-end development of a fully responsive WordPress-based site for a high-end outerwear company.",
+    "url": "http://iamb4.com/projects/homeschool-outerwear/"
+  },
+  {
+    "project": "Moniker",
+    "role": ["Front-end Developer"],
+    "client": "Upperquad",
+    "description": "Responsive WordPress site featuring custom grid layouts and subtle animations for a branding studio.",
+    "url": "http://iamb4.com/projects/moniker/"
+  },
+  {
+    "project": "The Information",
+    "role": [],
+    "client": "",
+    "description": "",
+    "url": "http://iamb4.com/projects/the-information/"
+  },
+  {
+    "project": "Hunters Alley",
+    "role": [],
+    "client": "",
+    "description": "",
+    "url": "http://iamb4.com/projects/hunters-alley/"
+  },
+  {
+    "project": "Google Maps for Business",
+    "role": [],
+    "client": "Google",
+    "description": "",
+    "url": "http://iamb4.com/projects/google-maps-for-business/"
+  },
+  {
+    "project": "Leckerlee",
+    "role": [],
+    "client": "Leckerlee",
+    "description": "",
+    "url": "http://iamb4.com/projects/leckerlee/"
+  },
+  {
+    "project": "Arno Surfboards",
+    "role": ["Designer"],
+    "client": "Arno Surfboards",
+    "description": "Logo design for a San Francisco surfboard brand, including retro and dynamic logo directions.",
+    "url": "http://iamb4.com/projects/arno-surfboards/"
+  },
+  {
+    "project": "Dakota Shy Wines",
+    "role": [],
+    "client": "Dakota Shy Wines",
+    "description": "",
+    "url": "http://iamb4.com/projects/dakota-shy-wines/"
+  },
+  {
+    "project": "Public Barber Salon",
+    "role": ["Creative Director", "Designer", "Developer"],
+    "client": "Public Barber Salon",
+    "description": "Brand identity, print collateral, and website design for a San Francisco barbershop.",
+    "url": "http://iamb4.com/projects/public-barber-salon-2/"
+  },
+  {
+    "project": "Tower 15 Winery",
+    "role": [],
+    "client": "Tower 15 Winery",
+    "description": "",
+    "url": "http://iamb4.com/projects/tower-15-winery/"
+  },
+  {
+    "project": "Downtown Wine SF",
+    "role": [],
+    "client": "Downtown Wine SF",
+    "description": "",
+    "url": "http://iamb4.com/projects/downtown-wine-sf/"
+  },
+  {
+    "project": "Radog Wines",
+    "role": [],
+    "client": "Radog Wines",
+    "description": "",
+    "url": "http://iamb4.com/projects/radog-wines/"
+  },
+  {
+    "project": "PMuck Artist/Studio",
+    "role": ["Creative Director", "Designer", "Developer"],
+    "client": "Philipp Muckenfuss",
+    "description": "Website and identity design for a German music producer and sound engineer.",
+    "url": "http://iamb4.com/projects/pmuck-artiststudio/"
+  },
+  {
+    "project": "Tonal Clothing",
+    "role": ["Creative Director", "Designer", "Developer"],
+    "client": "Tonal Clothing / Agility Graphics",
+    "description": "Independent clothing brand project involving product development, marketing, and ecommerce.",
+    "url": "http://iamb4.com/projects/tonal-clothing/"
+  },
+  {
+    "project": "Team Columbia Highroad",
+    "role": [],
+    "client": "Team Columbia Highroad",
+    "description": "",
+    "url": "http://iamb4.com/projects/team-columbia-highroad/"
+  },
+  {
+    "project": "WNZL",
+    "role": [],
+    "client": "WNZL",
+    "description": "",
+    "url": "http://iamb4.com/projects/wnzl/"
+  },
+  {
+    "project": "Mansfield-Dunne Wines",
+    "role": ["Creative Director", "Designer", "Developer"],
+    "client": "Bronze Creative",
+    "description": "Website redesign to position the winery as a boutique premium Pinot Noir producer.",
+    "url": "http://iamb4.com/projects/mansfield-dunne-wines/"
+  },
+  {
+    "project": "Chai Consulting",
+    "role": [],
+    "client": "Chai Consulting",
+    "description": "",
+    "url": "http://iamb4.com/projects/chai-consulting/"
+  }
+]
