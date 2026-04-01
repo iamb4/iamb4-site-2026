@@ -1,142 +1,162 @@
 [
   {
     "project": "Awesome Surfboards",
+    "slug": "awesome-surfboards",
     "role": ["Creative Director", "Designer", "Developer"],
     "client": "Awesome Surfboards",
     "description": "Awesome Surfboards is a brand started in 2013 as a creative outlet, producing surfboards, hard goods, and later a small clothing line.",
-    "url": "http://iamb4.com/projects/awesome-surfboards/"
+    "oldUrl": "http://iamb4.com/projects/awesome-surfboards/"
   },
   {
     "project": "Onset Ventures",
+    "slug": "onset-ventures",
     "role": ["Front-end Developer"],
     "client": "Onset Ventures",
     "description": "Front-end development work for the Onset Ventures website.",
-    "url": "http://iamb4.com/projects/onset-ventures/"
+    "oldUrl": "http://iamb4.com/projects/onset-ventures/"
   },
   {
     "project": "Homeschool Outerwear",
+    "slug": "homeschool-outerwear",
     "role": ["Front-end Developer"],
     "client": "Landonsea / Homeschool Outerwear",
     "description": "Front-end development of a fully responsive WordPress-based site for a high-end outerwear company.",
-    "url": "http://iamb4.com/projects/homeschool-outerwear/"
+    "oldUrl": "http://iamb4.com/projects/homeschool-outerwear/"
   },
   {
     "project": "Moniker",
+    "slug": "moniker",
     "role": ["Front-end Developer"],
     "client": "Upperquad",
     "description": "Responsive WordPress site featuring custom grid layouts and subtle animations for a branding studio.",
-    "url": "http://iamb4.com/projects/moniker/"
+    "oldUrl": "http://iamb4.com/projects/moniker/"
   },
   {
     "project": "The Information",
+    "slug": "the-information",
     "role": [],
     "client": "",
     "description": "",
-    "url": "http://iamb4.com/projects/the-information/"
+    "oldUrl": "http://iamb4.com/projects/the-information/"
   },
   {
     "project": "Hunters Alley",
+    "slug": "hunters-alley",
     "role": [],
     "client": "",
     "description": "",
-    "url": "http://iamb4.com/projects/hunters-alley/"
+    "oldUrl": "http://iamb4.com/projects/hunters-alley/"
   },
   {
     "project": "Google Maps for Business",
+    "slug": "google-maps-for-business",
     "role": [],
     "client": "Google",
     "description": "",
-    "url": "http://iamb4.com/projects/google-maps-for-business/"
+    "oldUrl": "http://iamb4.com/projects/google-maps-for-business/"
   },
   {
     "project": "Leckerlee",
+    "slug": "leckerlee",
     "role": [],
     "client": "Leckerlee",
     "description": "",
-    "url": "http://iamb4.com/projects/leckerlee/"
+    "oldUrl": "http://iamb4.com/projects/leckerlee/"
   },
   {
     "project": "Arno Surfboards",
+    "slug": "arno-surfboards",
     "role": ["Designer"],
     "client": "Arno Surfboards",
     "description": "Logo design for a San Francisco surfboard brand, including retro and dynamic logo directions.",
-    "url": "http://iamb4.com/projects/arno-surfboards/"
+    "oldUrl": "http://iamb4.com/projects/arno-surfboards/"
   },
   {
     "project": "Dakota Shy Wines",
+    "slug": "dakota-shy-wines",
     "role": [],
     "client": "Dakota Shy Wines",
     "description": "",
-    "url": "http://iamb4.com/projects/dakota-shy-wines/"
+    "oldUrl": "http://iamb4.com/projects/dakota-shy-wines/"
   },
   {
     "project": "Public Barber Salon",
+    "slug": "public-barber-salon",
     "role": ["Creative Director", "Designer", "Developer"],
     "client": "Public Barber Salon",
     "description": "Brand identity, print collateral, and website design for a San Francisco barbershop.",
-    "url": "http://iamb4.com/projects/public-barber-salon-2/"
+    "oldUrl": "http://iamb4.com/projects/public-barber-salon-2/"
   },
   {
     "project": "Tower 15 Winery",
+    "slug": "tower-15-winery",
     "role": [],
     "client": "Tower 15 Winery",
     "description": "",
-    "url": "http://iamb4.com/projects/tower-15-winery/"
+    "oldUrl": "http://iamb4.com/projects/tower-15-winery/"
   },
   {
     "project": "Downtown Wine SF",
+    "slug": "downtown-wine-sf",
     "role": [],
     "client": "Downtown Wine SF",
     "description": "",
-    "url": "http://iamb4.com/projects/downtown-wine-sf/"
+    "oldUrl": "http://iamb4.com/projects/downtown-wine-sf/"
   },
   {
     "project": "Radog Wines",
+    "slug": "radog-wines",
     "role": [],
     "client": "Radog Wines",
     "description": "",
-    "url": "http://iamb4.com/projects/radog-wines/"
+    "oldUrl": "http://iamb4.com/projects/radog-wines/"
   },
   {
     "project": "PMuck Artist/Studio",
+    "slug": "pmuck-artist-studio",
     "role": ["Creative Director", "Designer", "Developer"],
     "client": "Philipp Muckenfuss",
     "description": "Website and identity design for a German music producer and sound engineer.",
-    "url": "http://iamb4.com/projects/pmuck-artiststudio/"
+    "oldUrl": "http://iamb4.com/projects/pmuck-artiststudio/"
   },
   {
     "project": "Tonal Clothing",
+    "slug": "tonal-clothing",
     "role": ["Creative Director", "Designer", "Developer"],
     "client": "Tonal Clothing / Agility Graphics",
     "description": "Independent clothing brand project involving product development, marketing, and ecommerce.",
-    "url": "http://iamb4.com/projects/tonal-clothing/"
+    "oldUrl": "http://iamb4.com/projects/tonal-clothing/"
   },
   {
     "project": "Team Columbia Highroad",
+    "slug": "team-columbia-highroad",
     "role": [],
     "client": "Team Columbia Highroad",
     "description": "",
-    "url": "http://iamb4.com/projects/team-columbia-highroad/"
+    "oldUrl": "http://iamb4.com/projects/team-columbia-highroad/"
   },
   {
     "project": "WNZL",
+    "slug": "wnzl",
     "role": [],
     "client": "WNZL",
     "description": "",
-    "url": "http://iamb4.com/projects/wnzl/"
+    "oldUrl": "http://iamb4.com/projects/wnzl/"
   },
   {
     "project": "Mansfield-Dunne Wines",
+    "slug": "mansfield-dunne-wines",
     "role": ["Creative Director", "Designer", "Developer"],
     "client": "Bronze Creative",
     "description": "Website redesign to position the winery as a boutique premium Pinot Noir producer.",
-    "url": "http://iamb4.com/projects/mansfield-dunne-wines/"
+    "oldUrl": "http://iamb4.com/projects/mansfield-dunne-wines/"
   },
   {
     "project": "Chai Consulting",
+    "slug": "chai-consulting",
     "role": [],
     "client": "Chai Consulting",
     "description": "",
-    "url": "http://iamb4.com/projects/chai-consulting/"
+    "oldUrl": "http://iamb4.com/projects/chai-consulting/"
   }
 ]
