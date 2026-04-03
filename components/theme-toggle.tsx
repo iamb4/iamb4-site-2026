@@ -6,17 +6,16 @@ import { useTheme } from "next-themes";
 import { Sun, Moon } from "lucide-react";
 
 export function ThemeToggle() {
-  const { theme, setTheme } = useTheme();
+  const { setTheme, resolvedTheme } = useTheme();
 
   return (
     <div className="flex items-center space-x-2">
       <Label htmlFor="theme-toggle" className="flex items-center gap-1">
-        {theme === "dark" ? <Moon size={14} /> : <Sun size={14} />}
-        {theme === "dark" ? "Dark" : "Light"}
+        {resolvedTheme === "dark" ? <Moon size={14} /> : <Sun size={14} />}
       </Label>
       <Switch
         id="theme-toggle"
-        checked={theme === "dark"}
+        checked={resolvedTheme === "dark"}
         onCheckedChange={(checked) => setTheme(checked ? "dark" : "light")}
       />
     </div>
