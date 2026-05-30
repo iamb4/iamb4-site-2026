@@ -1,12 +1,7 @@
 "use client";
 
-<<<<<<<< HEAD:components/layout/theme-toggle.tsx
 import { Switch } from "@/components/ui/switch";
 import { Label } from "@/components/ui/label";
-========
-import { Switch } from "../ui/switch";
-import { Label } from "../ui/label";
->>>>>>>> 6718ffc (Scaffold homepage content and reorganize component structure.):components/providers/theme-toggle.tsx
 import { useTheme } from "next-themes";
 import { Sun, Moon } from "lucide-react";
 

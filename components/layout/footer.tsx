@@ -1,4 +1,4 @@
-import { ThemeToggle } from "@/components/layout/theme-toggle";
+import { ThemeToggle } from "@/components/providers/theme-toggle";
 
 export function Footer() {
   return (
