@@ -2,7 +2,7 @@ import "./globals.css";
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import { Footer } from "@/components/layout/footer";
-import { ThemeProvider } from "@/components/layout/theme-provider";
+import { ThemeProvider } from "@/components/providers/theme-provider";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -36,7 +36,7 @@ export default function RootLayout({
           disableTransitionOnChange
         >
           <div className="mx-auto w-full max-w-6xl px-4">
-            <main className="bg-amber-300">{children}</main>
+            <main>{children}</main>
             <Footer />
           </div>
         </ThemeProvider>
